@@ -18,6 +18,8 @@ The following transformations have been applied to the input dataset in order to
 
 Structure of the Tidy Dataset
 ------------------------------
+`str(x_final)`
+
 ```
  $ user                         : int  1 1 1 1 1 1 2 2 2 2 ...
  $ activityName                 : chr  "LAYING" "SITTING" "STANDING" "WALKING" ...
